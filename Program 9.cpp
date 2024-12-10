@@ -8,5 +8,5 @@ int main() {
   float height;
   age = 21;
   height = 1.73;
-  cout<<"Ace is "<<age<<" years old and his height is "<<height<<" meters.\n";
+  cout<<"Age is "<<age<<" years old and his height is "<<height<<" meters.\n";
 }
